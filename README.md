@@ -4,9 +4,9 @@
 ![Teams](https://img.shields.io/badge/Our%20Team-ContactSync-blue)
 <div align='center'>
 
-<img src="assets/hilman.JPG" width="128"/>
-<img src="assets/hasna.jpg" width="128"/>
-<img src="assets/idha.jpg" width="128"/>
+<img src="assets/hilman.png" width="128"/>
+<img src="assets/hasna1.png" width="128"/>
+<img src="assets/idha1.png" width="128"/>
 
 <br>
 
