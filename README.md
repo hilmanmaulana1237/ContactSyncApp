@@ -97,8 +97,8 @@ Aplikasi dibangun menggunakan arsitektur modern untuk memastikan skalabilitas da
 ![Dashboard](https://img.shields.io/badge/View-Dashboard-success)
 
 Dashboard admin (Web) digunakan untuk mengelola data kontak yang akan disinkronisasikan ke aplikasi mobile.
-*   [Link Dokumen Teknis & API Spec](#) *(Dummy Link)*
-*   [Link Download APK](#) *(Dummy Link)*
+*   [Link Dokumen Teknis & API Spec](#) *([Dummy Link](https://docs.google.com/document/d/10H841goMSSGv1CKSRWeMWxE1YwZevIlRYA7stIH9W0U/edit?tab=t.0))*
+*   [Link Download APK](#) *([Dummy Link](https://play.google.com/store/apps/details?id=com.contactsync.mobile))*
 
 ---
 *Dokumentasi ini disusun sebagai bagian dari tugas pengembangan ContactSyncApp.*
