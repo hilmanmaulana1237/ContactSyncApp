@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Person Icon (centered for adaptive icon safe zone) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28c-6.6,0 -12,5.4 -12,12s5.4,12 12,12s12,-5.4 12,-12S60.6,28 54,28z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,55c-13.3,0 -24,7.2 -24,16v5h48v-5C78,62.2 67.3,55 54,55z"/>
+    
+    <!-- Sync Arrow Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,38l8,8l-8,8v-5h-10v-6h10V38z"/>
+    
+    <!-- Sync Arrow Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,62l-8,-8l8,-8v5h10v6H26V62z"/>
+    
+</vector>

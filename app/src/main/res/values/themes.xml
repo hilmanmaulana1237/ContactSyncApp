@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ContactSyncApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryDark">@color/blue_primary_dark</item>
+        <item name="colorPrimaryContainer">@color/blue_surface</item>
+        <item name="colorOnPrimary">@color/blue_on_primary</item>
+        
+        <!-- Accent/Secondary colors -->
+        <item name="colorSecondary">@color/blue_accent</item>
+        <item name="colorSecondaryContainer">@color/blue_surface</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/card_background</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/blue_primary_dark</item>
+        <item name="android:navigationBarColor">@color/blue_primary_dark</item>
+    </style>
+
+    <style name="Theme.ContactSyncApp" parent="Base.Theme.ContactSyncApp" />
+</resources>

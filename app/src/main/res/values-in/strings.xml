@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Contact Sync App</string>
+    <string name="app_subtitle">Manajemen Kontak Perusahaan</string>
+    
+    <!-- Main Activity -->
+    <string name="choose_role">Pilih Peran Anda</string>
+    <string name="role_admin">Admin Perusahaan</string>
+    <string name="role_employee">Karyawan</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="footer_text">v1.0.0 • Contact Sync App</string>
+    <string name="change_language">Bahasa / Language</string>
+
+    <!-- Privacy Policy Dialog -->
+    <string name="privacy_title">Persetujuan Privasi</string>
+    <string name="privacy_agree_checkbox">Saya telah membaca dan menyetujui Kebijakan Privasi</string>
+    <string name="btn_agree_continue">Setuju &amp; Lanjut</string>
+    
+    <!-- Employee Activity -->
+    <string name="employee_title">Sinkronisasi Karyawan</string>
+    <string name="employee_subtitle">Pilih perusahaan dan sync kontak</string>
+    <string name="select_company">Pilih Perusahaan</string>
+    <string name="company_dropdown_hint">Ketuk untuk memilih</string>
+    <string name="passcode">Kode Akses</string>
+    <string name="btn_sync">Mulai Sinkronisasi</string>
+    <string name="btn_refresh">Refresh Daftar</string>
+    <string name="company_hint">Pilih perusahaan Anda</string>
+    <string name="passcode_hint">Masukkan kode akses</string>
+
+    <!-- Permissions -->
+    <string name="permission_title">Izin Akses Kontak Diperlukan</string>
+    <string name="permission_desc">Untuk menyinkronkan kontak perusahaan ke HP Anda, aplikasi ini memerlukan izin untuk:\n\n1. Membaca Kontak (cek duplikasi)\n2. Menulis Kontak (simpan data baru)\n\nKami TIDAK mengupload kontak pribadi Anda. Izin ini hanya untuk penyimpanan lokal.</string>
+    <string name="permission_positive">Mengerti &amp; Izinkan</string>
+    <string name="permission_negative">Batal</string>
+    
+    <!-- Status Messages -->
+    <string name="status_loading_companies">🔄 Memuat daftar perusahaan...</string>
+    <string name="status_no_companies">ℹ️ Belum ada perusahaan</string>
+    <string name="status_companies_found">Ditemukan %1$d perusahaan</string>
+    <string name="status_syncing">🔄 Mengambil data kontak...</string>
+    <string name="status_success">✅ Berhasil!</string>
+    <string name="status_imported">📱 %1$d kontak berhasil diimport</string>
+    <string name="status_skipped">⏭️ %1$d kontak dilewati (duplikat)</string>
+    <string name="error_permission">❌ Izin ditolak</string>
+    <string name="error_fill_all">Mohon isi semua data</string>
+    <string name="error_invalid_login">❌ Perusahaan atau passcode salah</string>
+
+    <!-- Admin Login Activity -->
+    <string name="admin_login_title">Login Admin</string>
+    <string name="admin_login_subtitle">Masuk dengan username perusahaan</string>
+    <string name="username">Username</string>
+    <string name="forgot_password_link">🔑 Lupa password?</string>
+    <string name="btn_register_new">Daftar Perusahaan Baru</string>
+    <string name="btn_back">← Kembali</string>
+    <string name="btn_back_text">Kembali</string>
+
+    <string name="forgot_password_title">🔑 Lupa Password?</string>
+    <string name="forgot_password_msg">Hubungi admin untuk reset password:\n\n📧 %1$s\n\nKlik \'Kirim Email\' untuk membuka aplikasi email Anda.</string>
+    <string name="btn_send_email">Kirim Email</string>
+    <string name="btn_close">Tutup</string>
+    <string name="email_subject">[Contact Sync] Permintaan Reset Password</string>
+    <string name="email_body">Halo Admin,\n\nSaya lupa password untuk akun:\nUsername: %1$s\n\nMohon bantuannya untuk reset password.\n\nTerima kasih.</string>
+    <string name="no_email_app">Tidak ada aplikasi email terinstall</string>
+    <string name="username_hint">Username wajib diisi</string>
+    <string name="passcode_required">Passcode wajib diisi</string>
+    <string name="login_success">✅ Login berhasil!</string>
+    <string name="login_failed">Username atau passcode salah</string>
+    <string name="loading">Loading...</string>
+    <string name="login">Masuk</string>
+</resources>
